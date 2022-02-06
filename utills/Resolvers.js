@@ -7,7 +7,7 @@ const resolvers = {
               return data;
             });
         },
-        Asset: async(_,{uuid}) => {          
+        asset: async(_,{uuid}) => {          
           const query = knex.select('*').from("public").from('asset').where({uuid: uuid});
           return query.then(data=>{
             return data[0];
