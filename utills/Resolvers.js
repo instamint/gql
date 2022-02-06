@@ -1,3 +1,4 @@
+const knex = require('./Connection');
 const resolvers = {
     Query: {
         Allasset: () => {          
