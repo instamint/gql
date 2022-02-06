@@ -22,7 +22,7 @@ const typeDefs = gql`
 
   }
   type Query {
-    Allasset: [asset],
+    allAssets: [asset],
     Asset(uuid: String): asset,
   }
 `;

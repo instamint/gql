@@ -1,7 +1,7 @@
 const knex = require('./Connection');
 const resolvers = {
     Query: {
-        Allasset: () => {          
+        allAssets: () => {          
             const query = knex.select('*').from("public").from('asset');
             return query.then(data=>{
               return data;
