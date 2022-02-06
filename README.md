@@ -16,4 +16,6 @@
 
 [Apollo Basics](https://www.apollographql.com/docs/), 
 [Apollo Server](https://www.apollographql.com/docs/apollo-server/getting-started/), 
-[GraphQL Schemas](https://graphql.org/learn/schema/)
+[GraphQL Schemas](https://graphql.org/learn/schema/),
+[SQL Datasource](https://github.com/cvburgess/SQLDataSource),
+[Knex DB-Connector](https://knexjs.org/),
