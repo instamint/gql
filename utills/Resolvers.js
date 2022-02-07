@@ -83,7 +83,7 @@ const resolvers = {
         const contractObj = {
           short_name: contract.short_name,
           address: contract.address,
-          last_used_token_id: contract.last_used_token_id,
+          last_used_token_id: contract.last_used_tokenid,
           description: contract.description,
         };
         const partyObj = {
