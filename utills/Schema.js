@@ -7,7 +7,7 @@ const typeDefs = gql`
     best_bid: Float
     ask: String
   }
-  type contrct {
+  type contract {
     short_name: String
     address: String
     last_used_token_id: Float
@@ -34,7 +34,7 @@ const typeDefs = gql`
     tokenid: Int
     transaction_receiptjson: String
     order_book: orderbook
-    contract: contrct
+    contract: contract
     parties: party
     bidder_id: Float
     client_id: Float

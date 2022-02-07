@@ -33,11 +33,21 @@ const resolvers = {
       // console.log(AllRecords);
 
       return query.then(async (data) => {
-        const [partyDataa] = await knex
+
+        let partyDataa;
+
+
+        if(data[0].bidder_id == null){
+          partyDataa = {name: "null"}
+        }
+        else{
+          [partyDataa] = await knex
           .select("name")
           .from("public")
           .from("party")
-          .where({ id: data[0].bidder_id });
+          .where({ id: data[0].bidder_id });  
+        }
+
         const [contract] = await knex
           .select("*")
           .from("public")
