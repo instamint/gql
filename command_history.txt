@@ -1,0 +1,343 @@
+    1  ls
+    2  cd snap/
+    3  ls
+    4  cd /
+    5  ls
+    6  cd ~
+    7  ls
+    8  git clone https://github.com/instamint/gql-service-be.git
+    9  sudo git clone https://github.com/instamint/gql-service-be.git
+   10  ls
+   11  cd gql-service-be/
+   12  ls
+   13  npm init
+   14  apt nstall nodejs
+   15  apt install nodejs
+   16  npm init
+   17  apt install npm
+   18  npm init
+   19  s
+   20  ls
+   21  ls
+   22  cd gql-service-be/
+   23  ls
+   24  node server.js 
+   25  cd ..
+   26  touch a.js
+   27  vim a.js 
+   28  node a.js 
+   29  rm a.js 
+   30  cd gql-service-be/
+   31  node server.js 
+   32  vim node_modules/graphql/utilities/extendSchema.js
+   33  cat node_modules/graphql/utilities/extendSchema.js | grep nodes.filterMap
+   34  cat node_modules/graphql/utilities/extendSchema.js
+   35  clear
+   36  node server.js 
+   37  git pull
+   38  npm i
+   39  git pull
+   40  npm i
+   41  node server.js 
+   42  rm -r node_modules/
+   43  rm package-lock.json 
+   44  vim package.json 
+   45  cat package.json 
+   46  ls
+   47  npm i
+   48  node server.js 
+   49  cat package.json 
+   50  node -v
+   51  uninstall nodejs
+   52  apt uninstall nodejs
+   53  cd ~
+   54  apt install curl
+   55  curl -sL https://deb.nodesource.com/setup_16.x | sudo bash -
+   56  cd ~
+   57  curl -sL https://deb.nodesource.com/setup_16.x | sudo bash -
+   58  deb https://deb.nodesource.com/node_16.x focal main
+   59  apt install nodejs
+   60  node -v
+   61  apt update
+   62  ls
+   63  cd gql-service-be/
+   64  node server.js 
+   65  cd ..
+   66  rm -r gql-service-be/
+   67  git clone https://github.com/instamint/gql-service-be.git
+   68  ls
+   69  cd gql-service-be/
+   70  npm i
+   71  node server.js 
+   72  cat server.js 
+   73  node server.js 
+   74  cat package.json 
+   75  node server.js 
+   76  ls
+   77  cd gql-service-be/
+   78  ls
+   79  git pull
+   80  ls
+   81  npm install
+   82  node server.js 
+   83  npm i
+   84  node server.js 
+   85  npm install apollo-server graphql
+   86  node server.js 
+   87  cd ..
+   88  rmd gql-service-be/
+   89  drm gql-service-be/
+   90  rm gql-service-be/
+   91  rm -d gql-service-be/
+   92  rm -r gql-service-be/
+   93  ls
+   94  git clone https://github.com/instamint/gql-service-be.git
+   95  ls
+   96  cd gql-service-be/
+   97  ls
+   98  npm install
+   99  node server.js 
+  100  sudo apt update
+  101  node server.js 
+  102  node -v
+  103  npm -v
+  104  apt-get update
+  105  npm i
+  106  clear
+  107  ls
+  108  vi server.js 
+  109  rm package-lock.json 
+  110  ls
+  111  npm i
+  112  node server.js 
+  113  git pull
+  114  ls
+  115  cd gql-service-be/
+  116  node server.js 
+  117  cd gql-service-be/
+  118  vim server.js 
+  119  node server.js 
+  120  vim server.js 
+  121  node server.js 
+  122  sudo kill -9 `sudo lsof -t -i:4000`
+  123  node server.js 
+  124  cat server.js 
+  125  sudo kill -9 `sudo lsof -t -i:4000`
+  126  clear
+  127  node server.js 
+  128  vim server.js 
+  129  node server.js 
+  130  vim server.js 
+  131  node server.js 
+  132  sudo kill -9 `sudo lsof -t -i:4000`
+  133  node server.js 
+  134  vim server.js 
+  135  node server.js 
+  136  clear
+  137  ls
+  138  cd gql-service-be/
+  139  node server.js 
+  140  sudo kill -9 `sudo lsof -t -i:4000`
+  141  node server.js 
+  142  vim server.js 
+  143  node server.js 
+  144  cd gql-service-be/
+  145  cd gql-service-be/
+  146  vim server.js 
+  147  node server.js 
+  148  ls
+  149  rm -r gql-service-be/
+  150  git clone https://github.com/instamint/gql-service-be.git
+  151  ls
+  152  cd gql-service-be/
+  153  npm i
+  154  node server.js 
+  155  sudo kill -9 `sudo lsof -t -i:4000`
+  156  node server.js 
+  157  ls
+  158  sudo rm -r gql-service-be/
+  159  git clone https://github.com/instamint/gql-service-be.git
+  160  ls
+  161  cd gql-service-be/
+  162  sudo rm package-lock.json 
+  163  sudo vim package.json 
+  164  npm install
+  165  sudo vim package.json 
+  166  npm install
+  167  node server.js 
+  168  ls
+  169  sudo touch .env
+  170  vi .env 
+  171  cd gql-service-be/
+  172  node server.js 
+  173  sudo kill -9 `sudo lsof -t -i:4000`
+  174  node server.js 
+  175  ls
+  176  cd gql-service-be/
+  177  ls
+  178  cat server.js 
+  179  cd utills/
+  180  vim Connection.js 
+  181  cd ~
+  182  ls
+  183  cd gql-service-be/
+  184  node server.js 
+  185  ls
+  186  cd gql-service-be/
+  187  ls
+  188  sudo cat .env
+  189  sudo vim .env
+  190  sudo vi .env
+  191  cat .env
+  192  sudo cat .env
+  193  sudo vim .env
+  194  sudo cat .env
+  195  sudo rm .env
+  196  sudo touch .env
+  197  ls -l
+  198  ls -la
+  199  sudo rm .env.swp 
+  200  sudo vim .env 
+  201  cat .env 
+  202  nodr server.js 
+  203  node server.js 
+  204  cd gql-service-be/
+  205  node server.js 
+  206  sudo kill -9 `sudo lsof -t -i:4000`
+  207  node server.js 
+  208  cd gql-service-be/
+  209  sudo cat .env 
+  210  ls 
+  211  ls -a
+  212  sudo apt ipdate
+  213  sudo apt update
+  214  cat package
+  215  cat package.json 
+  216  ls
+  217  cd gql-service-be/
+  218  clear
+  219  ls
+  220  ls -la
+  221  cat .env 
+  222  vim .env 
+  223  vim utills/Connection.js 
+  224  node server.js 
+  225  sudo kill -9 `sudo lsof -t -i:4000`
+  226  node server.js 
+  227  cat utills/Connection.js 
+  228  vim utills/Connection.js 
+  229  node server.js 
+  230  vim utills/Connection.js 
+  231  node server.js 
+  232  vim utills/Connection.js 
+  233  vim server.js 
+  234  node server.js 
+  235  vim server.js 
+  236  node server.js 
+  237  vim server.js 
+  238  cat utills/Connection.js 
+  239  vim utills/Connection.js 
+  240  cat .env 
+  241  node server.js 
+  242  sudo kill -9 `sudo lsof -t -i:4000`
+  243  node server.js 
+  244  cat .env 
+  245  cat utills/Connection.js 
+  246  node server.js 
+  247  vim server.js 
+  248  vim .env 
+  249  vim server.js 
+  250  node server.js 
+  251  vim .env 
+  252  vim utills/Connection.js 
+  253  node server.js 
+  254  sudo kill -9 `sudo lsof -t -i:4000`
+  255  node server.js 
+  256  vim utills/Connection.js 
+  257  node server.js 
+  258  sudo kill -9 `sudo lsof -t -i:4000`
+  259  node server.js 
+  260  vim utills/Connection.js 
+  261  vom server.js 
+  262  vim server.js 
+  263  node server.js 
+  264  sudo kill -9 `sudo lsof -t -i:4000`
+  265  node server.js 
+  266  [A
+  267  node server.js 
+  268  vim server.js 
+  269  vim .env 
+  270  vim server.js 
+  271  ls -la
+  272  rm .server.js.swp 
+  273  vim .env 
+  274  vim utills/Connection.js 
+  275  vim server.js 
+  276  node server.js 
+  277  cat utills/Connection.js 
+  278  cat .env 
+  279  cat server.js 
+  280  node server.js 
+  281  vim server.js 
+  282  node server.js 
+  283  apt-get update
+  284  apt install certbot python3-certbot-apache
+  285  a2enmod proxy_http
+  286  vi /etc/apache2/sites-available/gql.instamint.com.conf
+  287  a2dissite 000-default.conf
+  288  a2ensite gql.instamint.com.conf
+  289  systemctl restart apache2
+  290  certbot --apache --register-unsafely-without-emai
+  291  ls
+  292  cd gql-service-be/
+  293  ls
+  294  git pull
+  295  git pull -f
+  296  cd ..
+  297  rm -r gql-service-be/
+  298  git clone https://github.com/instamint/gql-service-be.git
+  299  cd gql-service-be/
+  300  ls
+  301  npm install
+  302  node server.js 
+  303  cd gql-service-be/
+  304  touch .env
+  305  vim .env 
+  306  node server.js 
+  307  cd gql-service-be/
+  308  ls
+  309  git pull
+  310  node server.js 
+  311  cd gql-service-be/
+  312  ls
+  313  git pull
+  314  node server.js 
+  315  sudo kill -9 `sudo lsof -t -i:4000`
+  316  node server.js 
+  317  ls
+  318  cd gql-service-be/
+  319  ls
+  320  node server.js 
+  321  cd gql-service-be/
+  322  node server.js 
+  323  ls
+  324  cd gql-service-be/
+  325  node server.js 
+  326  ls
+  327  cd gql-service-be/
+  328  ls -al
+  329  node server.js 
+  330  cd gql-service-be/
+  331  node server.js 
+  332  npm install pm2 -g
+  333  pm2
+  334  pm2 examples
+  335  cd gql-service-be/
+  336  pm2 start server.js --name graphql-be
+  337  history
+  338  pm2
+  339  pm2 list
+  340  ls
+  341  cd gql-service-be/
+  342  ls -al
+  343  history > command_history.txt
