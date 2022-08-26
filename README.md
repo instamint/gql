@@ -5,12 +5,21 @@
 - Any Code Editor
 - Nodemon (Optional)
 
+#### Libraries used in this project
+- Apollo-Server v2.6.2
+- Graphql v15.6.0
+- knex 
+- pg 
+- dotenv
+
 #### Initial Steps
-- git clone https://github.com/instamint/gql-service-be.git
-- cd gql-service-be
-- npm install
-- Setup your Database credentials on utilles/Connection.js
-- simply run node server.js
+```
+$ git clone https://github.com/instamint/gql-service-be.git
+$ cd gql-service-be
+$ npm install
+$ Setup your Database credentials on .env file
+$ Simply run node server.js
+```
 
 #### Documentation
 
