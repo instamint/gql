@@ -1,0 +1,40 @@
+query myq {
+  asset(hashid:"e0e3313606759811ce06021b700f9e400eabe4f1a55cb46b3ee0e4bc5cf5023f"){
+  xref
+  mint_requestjson
+  senderpk
+ }
+}
+
+query a {
+  allAssets {
+    hashid
+    
+  }
+}
+
+query a {
+  allAssets {
+    hashid
+    xref
+    senderpk
+  }
+}
+
+query a {
+  allAssets {
+    explorerurl
+    xref
+    mint_completed_status
+    instamint_asset_hashid
+  }
+}
+
+query m {
+  asset(hashid:"e3101e2b597c7abdb6465066925d114f064e1155becdb62ee65007c631bfc156") {
+    mint_completed_status
+    explorerurl
+    xref
+    algorand_assetid
+  }
+}
